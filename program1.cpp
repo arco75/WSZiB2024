@@ -1,0 +1,1 @@
+//wzorzec projktowy 1
